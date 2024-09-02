@@ -40,7 +40,7 @@
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="40" height="40"/> </a>
     <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-1-color-black-rgb.png" alt="GitLab" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
 </a>
 
 <!--     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> -->

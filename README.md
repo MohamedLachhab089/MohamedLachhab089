@@ -60,10 +60,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
     </a>
     <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/>
-</a>
-<!--     <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40"/>
-    </a> -->
+    </a>
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud" width="40" height="40"/>
+    </a>
 <!--     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> -->
 </p>

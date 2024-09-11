@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MOHAMED</h1>
 <h3 align="center">Software Engineer From Casablanca 🇲🇦</h3>
 
-<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/803226302ac9ed44d0caeadcaee81c6797400dc7b6da544bb78c80c59ebdfca3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966">
+<img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/803226302ac9ed44d0caeadcaee81c6797400dc7b6da544bb78c80c59ebdfca3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966">
 
 - 🔭 I’m currently working on **developing new features**
 - 🌱 I’m currently learning **Spring Boot and Spring Cloud**

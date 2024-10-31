@@ -93,7 +93,7 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
   <a href="https://cloud.ibm.com/" target="_blank" rel="noreferrer">
-    <img src="https://en.wikipedia.org/wiki/File:IBM_Cloud_logo.png" alt="IBM Cloud" width="40" height="40"/>
+    <img src="https://cloud.ibm.com/images/cloud-computing-icon.svg" alt="IBM Cloud" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="35"/>

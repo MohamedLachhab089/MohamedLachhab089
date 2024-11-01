@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer From Casablanca 🇲🇦</h3>
 <img align="right" alt="Coding" width="400"  src="https://camo.githubusercontent.com/803226302ac9ed44d0caeadcaee81c6797400dc7b6da544bb78c80c59ebdfca3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966">
 
-- 🔭 I’m currently working on **Developing new features**
-- 🌱 I’m currently mastering **Spring Boot & Spring Cloud**
+- 🔭 I’m actively **Developing new features**
+- 🌱 I’m deepening my skills in **Spring Boot & Spring Cloud**
 - 💬 Ask me about **Angular**
 - 📫 How to reach me: mohamed15lachhab@gmail.com
 

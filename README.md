@@ -5,7 +5,7 @@
 - 🔭 I’m actively **Developing new features**
 - 🌱 I’m deepening my skills in **Spring Boot & Spring Cloud**
 - 💬 Ask me about **Angular**
-- 📫 How to reach me: mohamed15lachhab@gmail.com
+<!-- - 📫 How to reach me: mohamed15lachhab@gmail.com -->
 
 ---
 

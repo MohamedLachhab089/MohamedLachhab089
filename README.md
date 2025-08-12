@@ -92,9 +92,9 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/cloud/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Oracle_logo.svg" 
-         alt="Oracle Cloud Infrastructure" 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" 
+         alt="PostgreSQL" 
          width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
